@@ -1,0 +1,531 @@
+[
+  {
+    "title": "Simulado Avançado: Câncer Colorretal",
+    "specialty": "Oncologia / Cirurgia Geral",
+    "difficulty": "hard",
+    "description": "Bateria de resolução de casos abordando diagnóstico, genética e condutas cirúrgico-oncológicas.",
+    "initial_presentation": "Você está sendo exposto a uma bateria de resolução de casos. Leia atentamente a evolução e os dados de cada paciente, presentes nos passos a seguir.",
+    "steps": [
+      {
+        "title": "Abordagem do Câncer de Reto Médio Localmente Avançado",
+        "content": "**Caso 1:** Carlos Eduardo, 62 anos, contador, procura o ambulatório de coloproctologia queixando-se de hematoquezia há 4 meses, associada a afilamento das fezes e tenesmo. Nega histórico familiar de câncer colorretal ou síndromes genéticas. É hipertenso controlado. Ao exame físico, apresenta-se em bom estado geral (ECOG 0). O toque retal revela uma massa vegetante, endurecida e friável a aproximadamente 6 cm da margem anal, ocupando as paredes posterior e lateral direita, sem fixação às estruturas pélvicas ósseas. Esfíncter normotônico. A colonoscopia confirmou lesão estenosante parcial no reto médio; a biópsia evidenciou adenocarcinoma tubular moderadamente diferenciado. A tomografia de tórax e abdome não demonstrou metástases à distância (M0). A ressonância magnética (RM) de pelve evidenciou tumor em reto médio invadindo 3 mm da gordura mesorretal (T3b), com 2 linfonodos mesorretais suspeitos (N1). A fáscia mesorretal (margem circunferencial - CRM) encontra-se livre (> 2 mm), porém há sinais de invasão extramural venosa (EMVI positiva). O antígeno carcinoembrionário (CEA) sérico é de 4,2 ng/mL.\n\n**Evolução:** Com base no estadiamento clínico (cT3b N1 M0) com EMVI positivo e CRM livre, a equipe multidisciplinar discute o planejamento terapêutico.",
+        "previous_step_comment": "",
+        "question": "Considerando as evidências recentes (ensaios RAPIDO e PRODIGE 23) para o tratamento de tumores de reto localmente avançados com fatores de alto risco (como EMVI positivo ou N+), qual é a abordagem terapêutica inicial mais recomendada atualmente?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Ressecção anterior do reto imediata com excisão total do mesorreto (ETM), seguida de quimioterapia adjuvante."
+          },
+          {
+            "id": "B",
+            "text": "Quimiorradioterapia neoadjuvante convencional (esquema longo) seguida de cirurgia após 8 semanas, sem quimioterapia sistêmica pré-operatória."
+          },
+          {
+            "id": "C",
+            "text": "Terapia Neoadjuvante Total (TNT), compreendendo radioterapia (curso curto ou longo) associada a quimioterapia de consolidação ou indução antes da cirurgia."
+          },
+          {
+            "id": "D",
+            "text": "Apenas radioterapia de curso curto (5x 5Gy) seguida de cirurgia imediata na mesma semana."
+          }
+        ],
+        "correct_option_id": "C",
+        "explanation": "A Terapia Neoadjuvante Total (TNT) tornou-se o padrão-ouro para o câncer de reto localmente avançado, especialmente na presença de fatores de alto risco como EMVI (invasão venosa extramural) positivo, linfonodos suspeitos ou fáscia mesorretal ameaçada. Ensaios clínicos recentes (como RAPIDO e PRODIGE 23) demonstraram que antecipar a quimioterapia sistêmica (seja antes ou depois da radioterapia, mas antes da cirurgia) aumenta as taxas de resposta clínica completa (pCR), diminui o risco de falha sistêmica (metástases) e melhora a sobrevida livre de doença em comparação com a quimiorradioterapia padrão seguida de cirurgia."
+      },
+      {
+        "title": "Câncer de Cólon Estádio II e Instabilidade de Microssatélites",
+        "content": "**Caso 2:** Maria Aparecida, 45 anos, professora do ensino fundamental. Procurou o pronto-socorro devido a quadro de astenia progressiva e dispneia aos esforços. O hemograma revelou anemia microcítica e hipocrômica grave (Hb 7,2 g/dL). O histórico familiar é negativo para neoplasias intestinais, embora um tio materno tenha tido câncer gástrico aos 60 anos. Ao exame físico, descorada (+++/4+), sem massas abdominais palpáveis ou adenomegalias. O toque retal foi indolor e sem massas, com fezes escurecidas na luva. A colonoscopia evidenciou uma lesão exofítica, vegetante, ulcerada, ocupando quase toda a luz do ceco. As biópsias confirmaram adenocarcinoma. As tomografias de estadiamento não mostraram metástases à distância (M0). A paciente foi submetida a uma hemicolectomia direita oncológica por videolaparoscopia. O laudo anatomopatológico da peça cirúrgica revelou: Adenocarcinoma mucinoso de ceco, grau 3, invadindo a subserosa (pT3), sem invasão angiolinfática ou perineural, margens livres. Foram dissecados 24 linfonodos, todos livres de neoplasia (pN0). Estadiamento patológico: pT3 pN0 (Estádio IIA). A pesquisa imuno-histoquímica das proteínas de reparo do DNA (MMR) revelou perda de expressão de MLH1 e PMS2, caracterizando alto grau de instabilidade de microssatélites (MSI-H).\n\n**Evolução:** A paciente encontra-se no 30º dia de pós-operatório, com excelente recuperação, e aguarda a decisão sobre tratamento adjuvante.",
+        "previous_step_comment": "",
+        "question": "Diante do estadiamento patológico pT3 pN0 (Estádio II) e do status imuno-histoquímico MSI-H (deficiência de MMR), qual é a recomendação mais apropriada para a terapia adjuvante desta paciente?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Quimioterapia adjuvante com esquema FOLFOX por 6 meses para erradicar micrometástases."
+          },
+          {
+            "id": "B",
+            "text": "Observação clínica exclusiva, pois tumores Estádio II MSI-H têm excelente prognóstico e não se beneficiam de fluoropirimidinas (5-FU) isoladas."
+          },
+          {
+            "id": "C",
+            "text": "Imunoterapia com pembrolizumabe adjuvante por 1 ano, devido ao status de instabilidade de microssatélites."
+          },
+          {
+            "id": "D",
+            "text": "Quimioterapia com Capecitabina isolada por 3 meses, por se tratar de paciente jovem."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "No câncer de cólon Estádio II (pT3N0), o status de instabilidade de microssatélites (MSI-H ou dMMR) confere um prognóstico favorável. Inúmeros estudos demonstraram que esses pacientes não têm benefício de sobrevida com o uso de quimioterapia adjuvante à base de fluoropirimidinas isoladas (como o 5-FU ou Capecitabina), podendo até apresentar piora dos desfechos. Como ela não possui fatores de alto risco severos (como pT4 ou menos de 12 linfonodos dissecados), a recomendação dos principais guidelines (NCCN, ESMO) é o seguimento clínico exclusivo (observação). A imunoterapia adjuvante ainda não é padrão para doença localizada Estádio II rotineiramente (seu principal uso atual é em doença metastática MSI-H)."
+      },
+      {
+        "title": "Polipose Adenomatosa Familiar (PAF)",
+        "content": "**Caso 3:** Ana Júlia, 22 anos, estudante de arquitetura, procura atendimento médico orientada por um geneticista. Seu pai faleceu aos 35 anos em decorrência de um câncer colorretal metastático. Aos 20 anos, Ana foi submetida a um teste genético que confirmou uma mutação patogênica no gene APC. Ela está assintomática e apresenta exame físico e toque retal normais. Traz consigo o laudo da sua primeira colonoscopia de rastreio, realizada na semana passada: 'Presença de mais de 500 pólipos sésseis e pediculados distribuídos uniformemente por todos os segmentos colônicos e no reto, variando de 2 mm a 15 mm. Foram ressecados os maiores no sigmoide e reto, cujo laudo anatomopatológico revelou adenomas tubulares com displasia de baixo grau'. Endoscopia digestiva alta mostrou microadenomas em duodeno esporádicos (Estágio I de Spigelman).\n\n**Evolução:** Com o diagnóstico estabelecido de Polipose Adenomatosa Familiar (PAF) clássica e o risco de 100% de desenvolvimento de câncer colorretal ao longo da vida, planeja-se a intervenção cirúrgica profilática.",
+        "previous_step_comment": "",
+        "question": "Qual é o procedimento cirúrgico considerado o padrão de escolha para erradicar o risco de câncer de cólon e reto e, simultaneamente, tentar preservar ao máximo a qualidade de vida e a continência anal nesta paciente jovem?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Colectomia total com anastomose ileorretal, acompanhada de seguimento endoscópico anual do reto remanescente."
+          },
+          {
+            "id": "B",
+            "text": "Proctocolectomia total com bolsa ileal e anastomose ileoanal (IPAA)."
+          },
+          {
+            "id": "C",
+            "text": "Proctocolectomia total com ileostomia terminal definitiva a Brooke."
+          },
+          {
+            "id": "D",
+            "text": "Polipectomias endoscópicas seriadas a cada 6 meses, postergando a cirurgia até que surja displasia de alto grau."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "Na PAF clássica (com centenas a milhares de pólipos), o reto está sempre intensamente acometido. A cirurgia de escolha em pacientes jovens e com boa função esfincteriana é a Proctocolectomia Total com criação de bolsa ileal e anastomose ileoanal (IPAA). Esta abordagem extirpa toda a mucosa de risco (cólon e reto), eliminando praticamente o risco de CCR, ao mesmo tempo em que evita um estoma definitivo, preservando o trânsito intestinal e a continência (embora com alteração do hábito intestinal). A anastomose ileorretal (opção A) deixa o reto <i>in situ</i>, mantendo um risco elevadíssimo de câncer no reto devido à grande quantidade de pólipos na PAF clássica, sendo reservada para PAF atenuada com poupamento retal."
+      },
+      {
+        "title": "Síndrome de Lynch e Câncer Sincrônico",
+        "content": "**Caso 4:** Fernando, 38 anos, engenheiro de software, dá entrada no pronto-socorro com dor abdominal em cólica no flanco direito e perda ponderal de 5 kg em dois meses. O histórico familiar é marcante: a irmã teve câncer de endométrio aos 42 anos, o pai teve câncer de cólon aos 45 anos, e uma tia paterna desenvolveu câncer de ovário. Ao exame físico, observa-se massa palpável e dolorosa em fossa ilíaca direita. Toque retal sem alterações. A tomografia computadorizada revelou um espessamento parietal importante no ceco e cólon ascendente, associado a linfonodos locorregionais aumentados, sem lesões hepáticas ou pulmonares (cT3N1M0). A colonoscopia alcançou até o ceco, demonstrando uma grande massa exofítica ulcerada. A biópsia indicou adenocarcinoma pouco diferenciado com infiltração linfocítica e áreas mucinosas. Realizado teste molecular na biópsia que revelou perda de MSH2 e MSH6 por imuno-histoquímica. O painel germinativo confirmou mutação patogênica no gene MSH2, diagnosticando Síndrome de Lynch (HNPCC).\n\n**Evolução:** Com o diagnóstico pré-operatório de adenocarcinoma de cólon direito localmente avançado não obstrutivo no contexto de Síndrome de Lynch comprovada.",
+        "previous_step_comment": "",
+        "question": "Devido ao altíssimo risco de tumores metacrônicos ao longo da vida inerente à Síndrome de Lynch, qual é a extensão da ressecção cirúrgica colônica recomendada pelos consensos internacionais para este paciente?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Hemicolectomia direita oncológica clássica seguida de colonoscopia anual de rastreio."
+          },
+          {
+            "id": "B",
+            "text": "Colectomia abdominal total com anastomose ileorretal."
+          },
+          {
+            "id": "C",
+            "text": "Proctocolectomia total com bolsa ileal e anastomose ileoanal."
+          },
+          {
+            "id": "D",
+            "text": "Terapia neoadjuvante com imunoterapia isolada, seguida de ressecção endoscópica submucosa (ESD)."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "Na Síndrome de Lynch (Câncer Colorretal Hereditário Não Poliposo), o risco de desenvolver um segundo câncer primário (metacrônico) no cólon remanescente é substancialmente alto (pode chegar a 15-40% em 10 anos pós-cirurgia segmentar). Por isso, as diretrizes (NCCN, ASCRS) recomendam oferecer a Colectomia Abdominal Total com anastomose ileorretal como o procedimento de escolha para pacientes com Lynch e um CCR inicial, desde que sejam adequadamente informados sobre os resultados funcionais. O reto restante deve ser vigiado anualmente por retossigmoidoscopia. A proctocolectomia (Opção C) não é justificada inicialmente, pois a Síndrome de Lynch não se caracteriza por polipose retal difusa severa como a PAF."
+      },
+      {
+        "title": "Câncer de Reto Baixo: Miles vs. Ressecção Anterior",
+        "content": "**Caso 5:** Roberto, 68 anos, mecânico aposentado, apresentou-se há 6 meses com tenesmo intenso e sangramento anal diário. Foi diagnosticado com adenocarcinoma de reto baixo. O toque retal inicial evidenciava uma lesão anelar e fixa, iniciando a 2 cm da borda anal, estendendo-se ao canal anal anatômico e invadindo o esfíncter anal interno e parte do externo. A RM de pelve estadiava como cT4bN1M0. O paciente foi submetido à Terapia Neoadjuvante Total (TNT) com radioterapia e quimioterapia completa. Oito semanas após o término, a RM de restadiamento mostra uma redução tumoral moderada, porém a fibrose residual e o tecido tumoral viável ainda comprometem o complexo esfincteriano e o músculo puborretal. Ao exame sob anestesia para restadiamento, não é possível obter uma margem distal livre adequada (1 a 2 cm) sem excisar o complexo esfincteriano.\n\n**Evolução:** A equipe multidisciplinar e o paciente discutem as opções cirúrgicas. O foco é obter margens oncológicas livres (R0) e curar o paciente, mesmo com implicações funcionais drásticas.",
+        "previous_step_comment": "",
+        "question": "Qual é o procedimento cirúrgico padrão indicado para este paciente, considerando a localização da lesão e o acometimento irreversível do complexo esfincteriano?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Amputação Abdominoperineal do Reto (Cirurgia de Miles) com colostomia terminal definitiva."
+          },
+          {
+            "id": "B",
+            "text": "Ressecção Anterior Ultra-baixa com anastomose coloanal manual e ileostomia protetora."
+          },
+          {
+            "id": "C",
+            "text": "Excisão Local Transanal (TEM / TAMIS) associada à braquiterapia."
+          },
+          {
+            "id": "D",
+            "text": "Procedimento a Hartmann, deixando o coto retal inferior in situ."
+          }
+        ],
+        "correct_option_id": "A",
+        "explanation": "A Amputação Abdominoperineal do Reto (Cirurgia de Miles) é o tratamento de escolha para tumores do reto distal que invadem diretamente o complexo esfincteriano anal ou o músculo elevador do ânus (puborretal), impossibilitando a obtenção de margens cirúrgicas distais (radiais e longitudinais) livres com a preservação do esfíncter. Essa cirurgia remove o cólon sigmoide distal, reto, ânus e esfíncteres perianais, resultando necessariamente em uma colostomia terminal definitiva no abdome. A ressecção anterior ultra-baixa com anastomose coloanal (Opção B) seria possível apenas se houvesse espaço para margem livre distal preservando o esfíncter anatômico."
+      },
+      {
+        "title": "Obstrução Intestinal por Câncer de Cólon Esquerdo",
+        "content": "**Caso 6:** Helena, 72 anos, dona de casa, é trazida ao pronto-socorro referindo parada de eliminação de gases e fezes há 4 dias, associada a distensão abdominal progressiva, náuseas e vômitos fecaloides desde hoje pela manhã. Como antecedentes, apresenta diabetes tipo 2 e insuficiência cardíaca (FEVE 45%). Ao exame físico: paciente desidratada, taquicárdica (110 bpm), normotensa (110x70 mmHg). Abdome muito distendido, hipertimpânico, com dor à palpação difusa, mas sem sinais de peritonite franca ou descompressão brusca dolorosa evidente. Ruídos hidroaéreos com timbre metálico. O toque retal mostra ampola retal vazia. Exames laboratoriais com ureia 90, creatinina 1,5, leucócitos 13.000, PCR 120. A Tomografia de Abdome com contraste venoso evidencia grande dilatação do cólon direito e transverso, com o ceco medindo 10,5 cm de diâmetro (parede afilada, ameaçando ruptura, mas íntegra). Identifica-se uma lesão estenosante concêntrica e curta na transição descendente-sigmoide, confirmando obstrução mecânica neoplásica. Não há sinais de perfuração retropneumoperitoneal ou pneumoperitônio livre.\n\n**Evolução:** A paciente encontra-se estável hemodinamicamente após hidratação venosa inicial, mas o ceco está sob risco iminente de perfuração (>10 cm). O hospital não possui radiologia intervencionista ou serviço de endoscopia avançada para passagem de stent metálico autoexpansível no momento da admissão noturna.",
+        "previous_step_comment": "",
+        "question": "Na ausência de stent colônico, qual é a conduta cirúrgica imediata mais apropriada para esta paciente frágil em vigência de oclusão aguda por tumor de cólon esquerdo, visando resolução da obstrução e ressecção oncológica com segurança?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Ressecção segmentar do tumor com anastomose primária primária imediata e sem estoma de proteção."
+          },
+          {
+            "id": "B",
+            "text": "Ressecção do segmento colônico estenosado, fechamento do coto retal e exteriorização de colostomia terminal (Procedimento de Hartmann)."
+          },
+          {
+            "id": "C",
+            "text": "Bypass entero-entérico do tumor, deixando a lesão in situ para ressecção eletiva posterior."
+          },
+          {
+            "id": "D",
+            "text": "Derivação interna exclusiva com ileostomia em alça de proteção, sem mexer no tumor no momento de urgência."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "No manejo da obstrução maligna do cólon esquerdo em caráter de urgência, especialmente em pacientes com comorbidades e cólon à montante dilatado/despreparado (ceco de 10,5 cm sob estresse), a cirurgia de Hartmann (ressecção oncológica do tumor, fechamento do coto retal e confecção de colostomia terminal esquerda) é a conduta clássica e mais segura. Ela remove a causa da obstrução e do sangramento futuro, tratando o câncer, sem o risco altíssimo de deiscência de uma anastomose primária em cólon dilatado e inflamado. O Stent seria uma ponte para cirurgia eletiva ideal, mas indisponível no cenário clínico. Fazer uma anastomose primária sem preparo e com cólon isquêmico distendido (Opção A) é inadequado pelo alto risco de fístula."
+      },
+      {
+        "title": "Abordagem de Metástases Hepáticas Sincrônicas",
+        "content": "**Caso 7:** Sílvia, 60 anos, administradora, relata episódios intermitentes de sangramento nas fezes e alteração do hábito intestinal há 3 meses. Colonoscopia revelou lesão vegetante no cólon sigmoide a 30 cm da borda anal; a biópsia mostrou adenocarcinoma moderadamente diferenciado. A paciente está em excelente estado geral (ECOG 0), sem perda de peso. A tomografia computadorizada (TC) de estadiamento toracoabdominal evidenciou o tumor primário sem sinais de obstrução intestinal. No entanto, no fígado, foram identificados três nódulos sólidos, hipocaptantes, o maior com 3 cm de diâmetro localizado no segmento VI, e os outros dois (1,5 cm e 2 cm) localizados nos segmentos II e III. O laudo do cirurgião hepatobiliar afirma que 'as metástases são limitadas, periféricas e claramente ressecáveis com preservação adequada do parênquima (FLR > 40%)'. O CEA basal é de 25 ng/mL. Avaliação molecular do tumor aponta KRAS mutado e BRAF selvagem.\n\n**Evolução:** A equipe multidisciplinar (Tumor Board) deve decidir a sequência de tratamento para essa paciente com câncer de cólon e metástases hepáticas sincrônicas facilmente ressecáveis e assintomáticas.",
+        "previous_step_comment": "",
+        "question": "De acordo com os consensos atuais para o manejo de doença metastática hepática primariamente ressecável e tumor de cólon pouco sintomático, qual é uma conduta considerada padrão e adequada?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Quimioterapia perioperatória (ex. esquema FOLFOX) seguida da ressecção simultânea ou estadiada do tumor primário e das metástases hepáticas."
+          },
+          {
+            "id": "B",
+            "text": "Cirurgia de ressecção hepática exclusiva, abandonando o tumor primário colônico, já que o prognóstico é determinado pelas metástases."
+          },
+          {
+            "id": "C",
+            "text": "Início imediato de radioterapia no fígado em todos os nódulos, seguida de sigmoidectomia e quimioterapia adjuvante apenas se houver progressão."
+          },
+          {
+            "id": "D",
+            "text": "Ressecção exclusiva do cólon sigmoide seguida de transplante hepático ortotópico imediato."
+          }
+        ],
+        "correct_option_id": "A",
+        "explanation": "No cenário de câncer colorretal com metástases hepáticas sincrônicas primariamente ressecáveis, a estratégia padrão-ouro atual envolve o uso de quimioterapia sistêmica (frequentemente neoadjuvante/perioperatória, ex. FOLFOX por 2 a 3 meses) para testar a biologia do tumor, controlar a doença micrometastática e facilitar a cirurgia, seguida da ressecção cirúrgica curativa de todos os sítios de doença (primário + hepático). Esta cirurgia pode ser simultânea (no mesmo ato cirúrgico, já que as metástases são menores e de fácil acesso) ou estadiada (estratégia clássica ou 'liver-first'), dependendo da complexidade das hepatectomias. O tratamento sempre busca intenção curativa ao ressecar os dois sítios, suportado por quimioterapia."
+      },
+      {
+        "title": "Rastreamento em Paciente de Alto Risco (Histórico Familiar)",
+        "content": "**Caso 8:** Luciana, 35 anos, advogada, procura o clínico geral para um check-up de rotina. É previamente hígida, assintomática, pratica exercícios físicos regulares e não fuma. Relata que está muito preocupada porque seu pai faleceu recentemente. O pai foi diagnosticado com adenocarcinoma de cólon ascendente aos 42 anos de idade, e a doença evoluiu para o óbito aos 46 anos após metástases pulmonares. A paciente informa que o pai não apresentava nenhuma síndrome genética conhecida (como PAF ou Lynch), sendo o único caso na família, caracterizando um câncer aparentemente esporádico de início precoce. Luciana deseja saber se deve fazer algum exame preventivo para o intestino.\n\n**Evolução:** Sabe-se que o rastreamento em pacientes com risco médio (população geral) hoje inicia-se aos 45 anos segundo as diretrizes mais recentes americanas (ACS, USPSTF).",
+        "previous_step_comment": "",
+        "question": "Baseado na história de um familiar de primeiro grau com câncer colorretal diagnosticado aos 42 anos, qual é a conduta correta de rastreamento (exame e timing) recomendada para Luciana?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Início da colonoscopia aos 40 anos de idade, repetindo a cada 10 anos se o exame for normal."
+          },
+          {
+            "id": "B",
+            "text": "Aguardar os 45 anos para realizar o exame de sangue oculto nas fezes anual."
+          },
+          {
+            "id": "C",
+            "text": "Início do rastreio imediatamente (aos 32 anos) através de colonoscopia, que deve ser repetida a cada 5 anos."
+          },
+          {
+            "id": "D",
+            "text": "Realização de tomografia computadorizada de abdome anual a partir dos 35 anos."
+          }
+        ],
+        "correct_option_id": "C",
+        "explanation": "Pacientes que têm um parente de primeiro grau (pai, mãe, irmão ou filho) com câncer colorretal ou adenoma avançado diagnosticado *antes dos 60 anos* são classificados como população de alto risco. As diretrizes preconizam que a colonoscopia de rastreio seja iniciada aos 40 anos de idade OU 10 anos antes da idade do diagnóstico do familiar mais jovem afetado – o que ocorrer primeiro. Como o pai teve o diagnóstico aos 42 anos, Luciana deveria ter iniciado o rastreio aos 32 anos (42 - 10 = 32). Como ela já tem 35 anos, ela está atrasada para o rastreio, devendo realizar uma colonoscopia imediata e repetir a cada 5 anos caso o exame inicial seja normal ou encontre apenas pólipos simples."
+      },
+      {
+        "title": "Manejo de Pólipo Maligno pós-Polipectomia",
+        "content": "**Caso 9:** João Roberto, 55 anos, taxista, submeteu-se à sua primeira colonoscopia de rastreamento. O exame endoscópico identificou um único achado: um grande pólipo pediculado de 2,5 cm no cólon descendente, que foi completamente ressecado com alça diatérmica em fragmento único (polipectomia em bloco). O paciente recebeu o resultado do laudo anatomopatológico no retorno após 15 dias: 'Adenocarcinoma tubular moderadamente diferenciado, originado em adenoma tubuloviloso. Presença de invasão carcinomatosa da haste do pólipo atingindo o terço inferior (Nível 4 de Haggitt) e invadindo a submucosa colônica subjacente. A margem de ressecção endoscópica (cautério) dista 1 mm da neoplasia invasiva. Invasão angiolinfática e perineural estão ausentes'.\n\n**Evolução:** A polipectomia de um pólipo que contém foco de adenocarcinoma invasivo (ultrapassando a muscularis mucosae) é conhecida como 'pólipo maligno'.",
+        "previous_step_comment": "",
+        "question": "Com base nos achados histopatológicos detalhados (Haggitt 4 e margem de 1 mm), qual é a conduta subsequente mais adequada para este paciente?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Considerar o procedimento endoscópico curativo, orientando retorno para nova colonoscopia em 6 meses."
+          },
+          {
+            "id": "B",
+            "text": "Indicada colectomia segmentar esquerda com linfadenectomia oncológica."
+          },
+          {
+            "id": "C",
+            "text": "Encaminhar para quimioterapia sistêmica adjuvante por 6 meses seguida de seguimento endoscópico."
+          },
+          {
+            "id": "D",
+            "text": "Repetir a colonoscopia para cauterização da base com plasma de argônio."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "A conduta diante de um pólipo maligno pediculado depende de critérios de risco para envolvimento de linfonodos locorregionais e de recorrência na parede colônica. Fatores de alto risco que obrigam a complementação cirúrgica com colectomia segmentar e linfadenectomia incluem: invasão da base de implantação do pólipo ultrapassando a haste (nível 4 de Haggitt) ou invasão maciça da submucosa no pólipo séssil (nível 3 de Kikuchi), presença de invasão angiolinfática, histologia pouco diferenciada (grau 3) e margens de ressecção comprometidas ou < 2 mm. Como o paciente tem invasão no nível 4 de Haggitt e margem estreita (1 mm), a cirurgia oncológica é mandatória para garantir radicalidade e estadiar os linfonodos."
+      },
+      {
+        "title": "Acompanhamento (Surveillance) Pós-Operatório do Câncer de Cólon",
+        "content": "**Caso 10:** Tereza, 63 anos, bancária aposentada, foi submetida há 2 anos a uma hemicolectomia esquerda oncológica por um câncer de cólon descendente. Na época, o estadiamento patológico foi pT3pN1M0 (Estádio III), e a paciente completou com sucesso 6 meses de quimioterapia adjuvante com esquema CAPOX. Desde então, vinha realizando consultas de seguimento a cada 3 a 6 meses. Seu CEA pré-operatório era de 8 ng/mL, que caiu para 1,5 ng/mL no pós-operatório. Na consulta de retorno atual, o clínico nota que o CEA, que estava estável há 18 meses, começou a subir: há 3 meses estava em 4,0 ng/mL e no exame coletado esta semana está em 12,5 ng/mL (valor de referência < 5 ng/mL). A paciente apresenta-se totalmente assintomática, negando dor, alterações intestinais, emagrecimento ou dispneia. Exame físico sem alterações. A colonoscopia de controle de 1 ano atrás foi normal.\n\n**Evolução:** Com a suspeita de recorrência baseada unicamente no marcador tumoral sérico em elevação sustentada, são solicitadas tomografias.",
+        "previous_step_comment": "",
+        "question": "A paciente realiza tomografia computadorizada (TC) de tórax, abdome e pelve com contraste, que não evidencia nenhum nódulo ou alteração morfológica suspeita. Qual deve ser o próximo passo diagnóstico para investigar a elevação isolada do CEA?",
+        "options": [
+          {
+            "id": "A",
+            "text": "PET-CT (Tomografia por emissão de pósitrons) com FDG."
+          },
+          {
+            "id": "B",
+            "text": "Laparoscopia diagnóstica imediata à procura de carcinomatose peritoneal microscópica."
+          },
+          {
+            "id": "C",
+            "text": "Trocar de imediato o regime para quimioterapia paliativa de segunda linha (ex: FOLFIRI)."
+          },
+          {
+            "id": "D",
+            "text": "Tranquilizar a paciente, pois o CEA não é um marcador confiável e sobe por causas benignas inespecíficas após cirurgia."
+          }
+        ],
+        "correct_option_id": "A",
+        "explanation": "No seguimento do câncer colorretal, uma elevação isolada e sustentada do antígeno carcinoembrionário (CEA) deve sempre levantar a suspeita de recorrência da doença (local, hepática, pulmonar, peritônio, etc). Se a investigação inicial por imagem tomográfica padrão (TC de tórax/abdome/pelve) e colonoscopia for negativa ou inconclusiva, as diretrizes da NCCN, ESMO e ASCO recomendam firmemente a realização de um PET-CT com fluordesoxiglicose (18F-FDG). O PET-CT tem alta sensibilidade para localizar áreas de metabolismo anômalo ocultas às TCs convencionais, como pequenas metástases intra-abdominais, gânglios retroperitoneais ocultos ou lesões ósseas. Iniciar tratamento sem confirmação radiológica de onde está a doença é incorreto."
+      },
+      {
+        "title": "Linfadenectomia Inadequada no Câncer de Cólon",
+        "content": "**Caso 11:** Roberto, 59 anos, gerente de vendas, foi submetido em caráter de urgência a uma sigmoidectomia a Hartmann devido a uma diverticulite aguda complicada que simulava massa tumoral. No intraoperatório, o achado era uma massa dura perfurada no sigmoide bloqueada pelo epíploon. A surpresa veio com o laudo anatomopatológico definitivo da peça cirúrgica: Adenocarcinoma de cólon sigmoide, moderadamente diferenciado, invadindo através da muscular própria até a subserosa (pT3). A inflamação observada era decorrente da perfuração tumoral local contida (fator de alto risco). O detalhe mais crítico do laudo foi o exame dos gânglios: 'Foram isolados e examinados microscopicamente 7 linfonodos regionais do mesocólon; todos os 7 estão livres de metástase (pN0)'. O cirurgião encaminha o caso ao oncologista clínico para discutir a adjuvância.\n\n**Evolução:** O estadiamento do paciente é pT3 pN0 (Estádio II), mas a análise do laudo revela fatores patológicos que alteram a classificação de risco.",
+        "previous_step_comment": "",
+        "question": "Diante do número de linfonodos avaliados na peça (7 linfonodos) e da presença de perfuração intestinal local, qual é a conduta oncológica adequada?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Considerar a cirurgia inadequada oncologicamente e indicar reintervenção cirúrgica imediata para ampliar a linfadenectomia."
+          },
+          {
+            "id": "B",
+            "text": "Classificar como Estádio II de alto risco clínico e patológico e recomendar tratamento com quimioterapia adjuvante."
+          },
+          {
+            "id": "C",
+            "text": "Classificar como Estádio II de baixo risco (pN0) e manter apenas observação vigilante, sem quimioterapia."
+          },
+          {
+            "id": "D",
+            "text": "Solicitar imunoterapia isolada, pois o paciente foi submetido a cirurgia contaminada (Hartmann)."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "No tratamento cirúrgico oncológico do câncer de cólon, o padrão de qualidade determina que no mínimo 12 linfonodos devem ser ressecados e avaliados no laudo patológico para garantir um estadiamento pN0 fidedigno. Quando são retirados menos de 12 linfonodos, aumenta substancialmente a chance de 'subestadiamento' (micrometástases em linfonodos não retirados), e o tumor Estádio II (T3N0) é reclassificado automaticamente como 'Estádio II de Alto Risco'. Além disso, a perfuração local e a obstrução pré-operatória também são considerados critérios independentes de alto risco no Estádio II. Por apresentar estes múltiplos fatores que denotam maior taxa de recidiva, a quimioterapia adjuvante (ex: esquema à base de fluoropirimidina como FOLFOX ou capecitabina) está formalmente indicada. A reoperação exclusiva para retirar nódulos não possui benefício comprovado em detrimento da quimio."
+      },
+      {
+        "title": "Importância da Ressonância Magnética no Estadiamento Retal",
+        "content": "**Caso 12:** Neuza, 61 anos, costureira, apresenta queixa de fezes em fita e saída de sangue escuro no final das evacuações. A colonoscopia demonstra massa ulcerovegetante em reto inferior, medindo cerca de 4 cm de extensão e distando 5 cm do rebordo anal. A biópsia é compatível com adenocarcinoma. Seguindo o protocolo de estadiamento sistêmico, as TCs de tórax e abdome excluem doença a distância. O estadiamento locorregional pélvico de escolha é a Ressonância Magnética (RM) de Pelve de alta resolução. O laudo radiológico da RM conclui: 'Lesão neoplásica do reto distal, invadindo toda a camada muscular própria e estendendo-se por 4 mm para a gordura mesorretal. Presença de espículas tumorais que se aproximam da fáscia mesorretal própria. A distância mais curta mensurada entre o tumor e a fáscia mesorretal é de 0,5 mm'.\n\n**Evolução:** A RM pélvica tem papel central em prever o sucesso da cirurgia através da avaliação da Fáscia Mesorretal, que corresponde à futura Margem de Ressecção Circunferencial (CRM) do cirurgião.",
+        "previous_step_comment": "",
+        "question": "A partir do laudo da RM que aponta tumor a 0,5 mm da fáscia mesorretal, o que esta informação determina criticamente no manejo da paciente?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A fáscia mesorretal é dita 'ameaçada' ou CRM+ (< 1 mm), impondo a obrigatoriedade de terapia neoadjuvante (quimiorradioterapia) pré-operatória para buscar a regressão local do tumor."
+          },
+          {
+            "id": "B",
+            "text": "O tumor é estadiado como T4b, tornando o caso inoperável e com indicação exclusiva de cuidados paliativos."
+          },
+          {
+            "id": "C",
+            "text": "A margem é considerada segura e ampla, visto que ainda existe uma distância (0,5 mm) de tecido sadio, indicando ressecção cirúrgica imediata por técnica minimamente invasiva."
+          },
+          {
+            "id": "D",
+            "text": "Determina que a única abordagem possível é uma ressecção endoscópica local."
+          }
+        ],
+        "correct_option_id": "A",
+        "explanation": "Na avaliação do câncer de reto por ressonância magnética, o conceito de CRM (Margem Circunferencial de Ressecção) ameaçada é o fator prognóstico local isolado mais importante. Uma margem de tumor ou de linfonodo que se encontra a 1 milímetro ou menos (≤ 1 mm) da Fáscia Mesorretal prediz altíssimo risco de que o cirurgião deixará doença microscópica para trás (margem R1) durante a excisão total do mesorreto (ETM). Consequentemente, isso é o principal gatilho para a instituição de terapia neoadjuvante com radioterapia e quimioterapia (TNT) visando fazer o 'downstaging' e 'downsizing' do tumor, afastando a borda tumoral da fáscia, e permitindo uma ressecção curativa R0."
+      },
+      {
+        "title": "Terapia Alvo para CCR Metastático e Biomarcadores",
+        "content": "**Caso 13:** Beatriz, 58 anos, corretora de imóveis, foi diagnosticada com um adenocarcinoma de cólon descendente complicado com múltiplas metástases hepáticas bilobares maciças e nódulos pulmonares bilaterais (Estadiamento cT4N1M1 - Doença irressecável de front). Ela está sintomática, com fadiga importante e elevação de transaminases, mas não possui sinais de obstrução intestinal aguda. A equipe oncológica coleta um painel molecular estendido da biópsia de cólon. Os resultados revelam: Proficiência das proteínas de reparo (pMMR / MSS estável), gene KRAS selvagem (wild-type), gene NRAS selvagem, gene BRAF selvagem, e sem superexpressão de HER2. A lateralidade do tumor primário é classificada como 'lado esquerdo' (cólon descendente).\n\n**Evolução:** A paciente possui um câncer de cólon metastático, originado do lado esquerdo, e cuja biologia molecular não demonstra mutações nos genes RAS ou BRAF.",
+        "previous_step_comment": "",
+        "question": "Com base nas características clínicas e moleculares descritas, qual seria a adição biológica (terapia-alvo) de primeira escolha idealmente combinada à quimioterapia citotóxica (ex: FOLFOX ou FOLFIRI) para maximizar a sobrevida e as taxas de resposta nesta paciente?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Um anticorpo monoclonal inibidor de checkpoint imunológico (ex: Pembrolizumabe)."
+          },
+          {
+            "id": "B",
+            "text": "Um anticorpo monoclonal inibidor do receptor do fator de crescimento epidérmico (Anti-EGFR), como o Cetuximabe ou Panitumumabe."
+          },
+          {
+            "id": "C",
+            "text": "Um inibidor específico da tirosina quinase do BRAF mutado, como o Encorafenibe."
+          },
+          {
+            "id": "D",
+            "text": "Um anticorpo antiangiogênico inibidor do VEGF, como o Bevacizumabe, de forma exclusiva por intolerância à quimioterapia."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "No câncer colorretal metastático irressecável, o status mutacional do eixo RAS (KRAS e NRAS) e a lateralidade do tumor primário guiam o tratamento. Cerca de 50% dos pacientes têm mutações no RAS, o que os torna resistentes aos anticorpos inibidores do EGFR (Cetuximabe, Panitumumabe). Como a paciente em questão apresenta tumor RAS selvagem (wild-type) e BRAF selvagem, aliado a um tumor primário de lado esquerdo (cuja biologia responde muito melhor à inibição do EGFR do que os do lado direito), a melhor evidência científica aponta para a combinação de quimioterapia dupla com uma droga anti-EGFR para atingir a maior taxa de encolhimento do tumor (objective response rate) e aumento na sobrevida global. A imunoterapia (Opção A) está reservada na 1ª linha para doença MSI-H/dMMR, o que ela não possui."
+      },
+      {
+        "title": "Excisão Completa do Mesocólon (CME)",
+        "content": "**Caso 14:** Gustavo, 70 anos, agropecuarista, apresenta quadro de astenia e emagrecimento de 8 kg. Exames revelaram anemia ferropriva severa (Hemoglobina 8,0 mg/dL). Ao ser investigado por colonoscopia, identificou-se uma volumosa lesão úlcero-infiltrativa envolvendo todo o ceco e transição com a válvula ileocecal. Tomografias de estadiamento locorregional mostram tumor crescendo até a gordura pericólica, com aparente espessamento de vários gânglios ao longo do tronco arterial ileocólico. Não há doença metastática (M0). O paciente é encaminhado para intervenção cirúrgica com o diagnóstico de adenocarcinoma de ceco Estádio cT3N1M0. O cirurgião discute o plano operatório enfatizando os preceitos anatômicos e oncológicos modernos para maximizar a sobrevida do paciente.\n\n**Evolução:** A cirurgia para câncer de cólon não é apenas a retirada do intestino, mas exige a ressecção do envoltório linfovascular que drena a peça (linfadenectomia).",
+        "previous_step_comment": "",
+        "question": "A técnica contemporânea padronizada que garante o máximo de ressecção linfonodal e melhores desfechos oncológicos para tumores de cólon é conhecida como Excisão Completa do Mesocólon (CME). Qual é o princípio fundamental desta técnica aplicável na hemicolectomia direita de Gustavo?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A ressecção circunferencial apenas da gordura retroperitoneal sem necessidade de laqueadura dos vasos viscerais centrais."
+          },
+          {
+            "id": "B",
+            "text": "A dissecção e secção da veia mesentérica inferior em sua origem retropancreática, independente da localização da lesão."
+          },
+          {
+            "id": "C",
+            "text": "A preservação da integridade da fáscia visceral mesocólica, combinada com a ligadura vascular central (CVL) dos vasos ileocólicos, cólicos direitos e do ramo direito da artéria cólica média, em suas origens a partir dos eixos mesentéricos superiores."
+          },
+          {
+            "id": "D",
+            "text": "Linfadenectomia lomboaórtica sistemática das estações retroperitoneais extra-colônicas para prevenção da disseminação retrógrada."
+          }
+        ],
+        "correct_option_id": "C",
+        "explanation": "A técnica de Excisão Completa do Mesocólon (CME - Complete Mesocolic Excision) revolucionou o tratamento do câncer de cólon, semelhante à ETM no reto. O princípio baseia-se na ressecção afiada do mesocólon intacto dentro da sua fáscia visceral de envoltório, separando-o do retroperitônio e da fáscia de Toldt sem rompê-lo (evitando disseminação de células). O segundo pilar essencial é a Ligadura Vascular Central (CVL - Central Vascular Ligation), que na hemicolectomia direita implica na dissecção do eixo vascular principal (Artéria/Veia Mesentérica Superior) e laqueadura rente à origem da artéria ileocólica, artéria cólica direita (quando presente) e ramo direito da cólica média, garantindo assim a retirada dos linfonodos apicais dessa drenagem linfática."
+      },
+      {
+        "title": "Estratégia Conservadora: Assista e Espere (Watch and Wait)",
+        "content": "**Caso 15:** Paulo, 55 anos, professor de história, foi diagnosticado há 6 meses com um câncer de reto inferior, situado a 4 cm da borda anal anatômica, localmente avançado (cT3bN1). Ele foi submetido à Terapia Neoadjuvante Total (esquema de radioterapia curso longo com quimiorradioterapia contínua e, na sequência, 4 ciclos de quimioterapia de consolidação CAPOX). Ele retorna hoje, após o término completo do protocolo neoadjuvante. O paciente refere que o sangramento e o tenesmo pararam completamente e ele sente-se curado. Ao toque retal, o cirurgião palpa apenas uma área plana, cicatricial e macia, sem nenhuma irregularidade, nódulo, endurecimento ou ulceração. A retossigmoidoscopia rígida confirma uma cicatriz esbranquiçada plana, sem lesão exofítica. A Ressonância Magnética de Pelve de reestadiamento demonstra sinal de tecido fibrótico hipointenso em T2 no local do tumor primitivo, sem linfonodos suspeitos retidos e ausência de restrição à difusão (DWI) no leito, configurando um ypT0N0 presumido.\n\n**Evolução:** O conjunto dos achados do exame clínico direto, do toque, da endoscopia com imagem e da RM de alta qualidade sugere que o tumor sumiu por completo.",
+        "previous_step_comment": "",
+        "question": "Diante da presença de uma Resposta Clínica Completa (cCR) vigorosa no reestadiamento, qual é uma estratégia válida e contemporânea recomendada para ser discutida com Paulo, que visa a preservação de órgão?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Estratégia de preservação de órgão 'Watch and Wait' (Assista e Espere), com omissão da cirurgia e seguimento rigoroso seriado (exames clínicos, endoscópicos e radiológicos frequentes)."
+          },
+          {
+            "id": "B",
+            "text": "Manutenção obrigatória da Amputação Abdominoperineal, pois o toque retal normal não tem valor na ausência de biópsias profundas confirmando ypT0 na musculatura do reto."
+          },
+          {
+            "id": "C",
+            "text": "Proceder à ressecção endoscópica da cicatriz de forma alargada, curando o paciente sem a necessidade de novos exames."
+          },
+          {
+            "id": "D",
+            "text": "Retomar a radioterapia imediatamente, completando uma dose 'booster' para o reto residual e, depois, dar alta ao paciente."
+          }
+        ],
+        "correct_option_id": "A",
+        "explanation": "A conduta de 'Watch and Wait' (Observação Cuidadosa), idealizada no Brasil pela Dra. Angelita Habr-Gama e hoje validada em grandes diretrizes (como NCCN), é uma alternativa curativa para pacientes com câncer de reto que atingem Resposta Clínica Completa (cCR) rigorosa após a neoadjuvância. Como Paulo preenche todos os critérios de cCR (toque retal benigno/plano, retoscopia com cicatriz plana esbranquiçada sem úlcera e RM com fibrose 'dark signal' sem restrição à difusão e sem nódulos), é lícito poupá-lo de uma cirurgia radical morbida (como uma amputação ou ressecção anterior baixa) e submetê-lo a protocolos de vigilância ativa (exames clínicos a cada 3 meses nos primeiros 2 anos). Se houver 'regrowth' (recrescimento da lesão local), a cirurgia de resgate (salvage surgery) é indicada."
+      },
+      {
+        "title": "Manejo da Obstrução Maligna Intratável (Paliativo)",
+        "content": "**Caso 16:** Carmem, 78 anos, encontra-se internada há 15 dias com diagnóstico de adenocarcinoma de sigmoide com carcinomatose peritoneal maciça e ascite volumosa. Seu estadiamento é cT4N2M1c. Devido ao acúmulo difuso de implantes peritoneais carcinomatosos que congelaram as alças de intestino delgado no mesentério (pelve congelada e raiz mesentérica endurecida), a paciente evoluiu com oclusão intestinal maligna inoperável e refratária a medidas conservadoras. Ela tem náuseas severas contínuas, vômitos profusos biliares e fecaloide mesmo sem se alimentar. A sonda nasogástrica (SNG) tem drenado 1500 mL por dia, o que acarreta desconforto extremo. Exames de imagem confirmam os implantes neoplásicos difusos obstrutivos em múltiplos níveis do intestino delgado, tornando a cirurgia de derivação gástrica/enteral ou uma simples colostomia tecnicamente impossíveis. A expectativa de vida é curta e o foco é paliativo.\n\n**Evolução:** A equipe de cuidados paliativos assume a liderança do caso para prover alívio sintomático adequado para os vômitos incessantes decorrentes de uma oclusão maligna inoperável.",
+        "previous_step_comment": "",
+        "question": "Nesse cenário específico de múltiplos pontos de obstrução no intestino delgado e estômago devido à carcinomatose, não passível de correção cirúrgica, qual intervenção farmacológica é mais indicada para controlar as secreções e retirar a SNG, melhorando a qualidade de vida?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Uso de loperamida e sulfato ferroso associados a metoclopramida em altas doses para esvaziar o estômago forçadamente."
+          },
+          {
+            "id": "B",
+            "text": "Início de análogos da somatostatina (como a octreotida), corticoide e anticolinérgicos (escopolamina) associados a antieméticos centrais (haloperidol)."
+          },
+          {
+            "id": "C",
+            "text": "Administração empírica de laxantes osmóticos (lactulose) e procinéticos pesados (domperidona) para desobstruir o fluxo."
+          },
+          {
+            "id": "D",
+            "text": "Gastrostomia Endoscópica Percutânea com dieta polimérica hipercalórica."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "No manejo clínico conservador da Obstrução Intestinal Maligna (MBO) em fase terminal secundária à carcinomatose obstrutiva em múltiplos níveis, cirurgia ou estadiamento endoscópico estão frequentemente contraindicados. O objetivo paliativo de ouro é descontinuar a incômoda Sonda Nasogástrica e controlar os vômitos/cólicas sem piorar a dor do paciente. Para reduzir as secreções gastrointestinais e diminuir as cólicas (diminuir as ondas peristálticas que lutam contra o bloqueio), utiliza-se o octreotide (um inibidor potente da secreção GI exócrina) em combinação com glicocorticoides (ex: dexametasona para reduzir o edema peritumoral na alça) e antieméticos/analgésicos (como o haloperidol e escopolamina). O uso de procinéticos (metoclopramida, domperidona) e laxantes é contraindicado (Opções A e C), pois aumenta a peristalse num intestino totalmente fechado, causando dor dilacerante ou perfuração."
+      },
+      {
+        "title": "Critérios para Excisão Local em Câncer de Reto (TEM/TAMIS)",
+        "content": "**Caso 17:** Leandro, 50 anos, farmacêutico, realizou colonoscopia devido a um teste de sangue oculto nas fezes positivo. O laudo diagnosticou uma lesão séssil de base larga, discretamente ulcerada, localizada a 5 cm da margem anal anatômica, medindo 2 cm de extensão. A biópsia confirmou adenocarcinoma invasivo bem diferenciado. Na avaliação clínica locorregional, o toque e a retoscopia móvel visualizam a lesão restrita a uma das paredes. Para estadiamento T e N detalhados em lesão precoce e baixa, realizou-se a Ultrassonografia Endorretal (USG-ER) e a RM de pelve de alta resolução. Os exames convergiram apontando o mesmo achado: o tumor está restrito e penetra apenas a camada submucosa do reto (uT1), preservando totalmente a integridade da camada muscular própria, não se visibilizando nenhum linfonodo mesorretal suspeito de aumento (< 5 mm) (uN0).\n\n**Evolução:** Como é uma lesão pequena e confirmadamente limitada ao aspecto superficial do reto inferior, a excisão local ganha espaço sobre uma excisão total do mesorreto.",
+        "previous_step_comment": "",
+        "question": "Quais são os critérios oncológicos rigorosos que respaldam a indicação de tratamento curativo através de Excisão Transanal Microcirúrgica (TEM/TAMIS) em monoterapia para o câncer de reto precoce, os quais Leandro parece preencher?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Tumor T3 de até 3 cm, bem diferenciado e com CRM livre."
+          },
+          {
+            "id": "B",
+            "text": "Tumor T1 e T2 de até 5 cm, sem N+, mas com invasão angiolinfática presente, poupando assim a musculatura."
+          },
+          {
+            "id": "C",
+            "text": "Tumor uT1 (ou pT1), N0 clínico, menor que 3 cm, sem evidência de invasão linfovascular ou perineural, ocupando menos de 30% da circunferência e sendo bem ou moderadamente diferenciado."
+          },
+          {
+            "id": "D",
+            "text": "Qualquer tumor obstrutivo estadiado até T3 desde que a biópsia endoscópica venha como tumor bem diferenciado."
+          }
+        ],
+        "correct_option_id": "C",
+        "explanation": "A Excisão Local do Reto (via técnicas transanais avançadas como TEM, TAMIS ou ressecção endoscópica ESD) para intenção curativa do câncer retal deve ser oferecida apenas a um subgrupo altamente selecionado de doentes com baixíssimo risco de comprometimento de linfonodos do mesorreto (uma vez que essas técnicas extraem apenas um disco da parede retal e deixam os linfonodos in situ). As diretrizes (como NCCN) estabelecem critérios estritos de inclusão para a excisão local de segurança: Estadiamento clínico cT1 (confirmação por USG-ER ou RM) cN0, diâmetro tumoral < 3 cm, ocupando menos de 30% da luz e margem distal > 8 cm, histologia favorável (bem a moderadamente diferenciado) e AUSÊNCIA de invasão angiolinfática e perineural. Se o paciente não cumprir qualquer um desses, e possuir boa performance clínica, a ressecção cirúrgica radical ETM é necessária."
+      },
+      {
+        "title": "Apresentação Típica do Câncer de Cólon Direito (Cecal)",
+        "content": "**Caso 18:** Lúcio, 68 anos, metalúrgico aposentado, é encaminhado ao serviço de emergência por seu cardiologista. Há vários meses ele apresenta piora progressiva de um cansaço que hoje o impede de caminhar pequenas distâncias. Notou também dispneia. Nunca prestou atenção nas próprias fezes, nega dor abdominal ou hematoquezia viva. Seu exame físico mostra palidez cutaneomucosa e taquicardia de repouso, com sopro sistólico de ejeção funcional em foco aórtico e mitral. Não há icterícia. O exame abdominal revela uma massa vaga profunda e levemente móvel no quadrante inferior direito, de aproximadamente 6 cm, não dolorosa. Os laboratórios mostram uma Hemoglobina de 6,5 g/dL, VCM 72, Ferritina de 8 ng/mL (baixa). O toque retal é isento de massas e há ausência de melena na luva de toque. Pesquisa de sangue oculto nas fezes (PSOF) foi solicitada e foi fortemente positiva.\n\n**Evolução:** A apresentação do tumor do cólon varia sensivelmente de acordo com o segmento afetado: o cólon direito contra o esquerdo.",
+        "previous_step_comment": "",
+        "question": "A síndrome clínica observada no paciente (cansaço e massa palpável insidiosa) é o quadro típico do câncer de cólon direito (ceco e cólon ascendente). Qual a principal característica desses tumores e do ambiente colônico à direita que justifica esse comportamento indolente com anemia crônica oculta?",
+        "options": [
+          {
+            "id": "A",
+            "text": "O lúmen colônico direito é estreito e o conteúdo fecal é sólido; os tumores crescem como anéis estenosantes, oprimindo vasos e causando microisquemia."
+          },
+          {
+            "id": "B",
+            "text": "O cólon direito possui um lúmen de diâmetro amplo e o conteúdo intestinal fecal lá presente é quase líquido; as lesões tendem a ter morfologia polipoide, exofítica ou fungoide. Elas sangram insidiosamente na luz intestinal, sendo o sangue misturado e oxidado ao longo do intestino, sem levar rapidamente à obstrução mecânica."
+          },
+          {
+            "id": "C",
+            "text": "O tumor direito compromete preferencialmente a inervação parassimpática da motilidade, retardando severamente o trânsito e gerando apenas obstipação antes do sangramento franco."
+          },
+          {
+            "id": "D",
+            "text": "Há ausência de fatores de coagulação que são normalmente produzidos por glândulas no ceco, gerando uma discrasia sanguínea fatal, por isso o choque hemorrágico."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "A apresentação clínica do câncer de cólon difere notavelmente do lado direito em comparação com o esquerdo. No lado esquerdo (cólon descendente e sigmoide), o lúmen é menor, o trânsito fecal transporta fezes já sólidas ou semissólidas, e os tumores tendem a ser infiltrativos ou anulares constritivos, manifestando-se frequentemente por alterações abruptas de hábito intestinal, sangue vivo em meio as fezes ou obstrução mecânica e cólicas. O lado direito (ceco), por sua vez, possui o maior calibre intraluminal de todo o intestino grosso, as fezes chegam na forma de líquido oriundo do íleo e a morfologia clássica dos tumores nessa região é de massas vegetantes e exofíticas. Por isso, a doença cresce bastante sem ocluir a luz intestinal, e a manifestação patognomônica torna-se o micro-sangramento crônico da lesão fribável na luz intestinal, desenvolvendo anemia ferropriva profunda assintomática por longos períodos antes da queixa obstrutiva, aliada à detecção ocasional de massa abdominal no flanco/FID."
+      },
+      {
+        "title": "Síndrome de Polipose Associada ao MUTYH (MAP)",
+        "content": "**Caso 19:** Tiago, 40 anos, veterinário, realizou uma colonoscopia pela primeira vez após episódios de dor abdominal inespecífica. O resultado endoscópico apontou a presença de aproximadamente 35 adenomas espalhados pelo seu intestino grosso (pólipos tubulares). Embora assustado, o histórico familiar chama a atenção do seu coloproctologista: Nenhum dos pais do Tiago, irmãos mais velhos de seu pai, nem os avós desenvolveram pólipos, câncer de cólon ou doenças semelhantes. Seus pais, entretanto, são primos de 1º grau (consanguinidade documentada). Foi solicitado um teste genético estendido e sequenciamento somático do qual não houve mutação no gene APC e o sistema MMR estava proficiente. Todavia, detectou-se em Tiago duas mutações bialélicas patogênicas para o gene MUTYH em sua linha germinativa.\n\n**Evolução:** A polipose adenomatosa nem sempre é herdada da maneira dominante clássica. O padrão de Tiago é condizente com a Síndrome de Polipose Associada ao MUTYH (MAP).",
+        "previous_step_comment": "",
+        "question": "Como a Síndrome de Polipose Associada ao MUTYH (MAP) se difere geneticamente e clinicamente da Polipose Adenomatosa Familiar (PAF) tradicional em relação ao padrão de herança e apresentação endoscópica?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A MAP possui herança autossômica dominante, de alta penetrância, gerando milhares de pólipos precocemente e com expressiva correlação a câncer ósseo familiar."
+          },
+          {
+            "id": "B",
+            "text": "A MAP possui um padrão de herança autossômica recessiva (o que explica as gerações normais saltadas e risco consanguíneo), causando tipicamente uma polipose colônica do tipo atenuada (usualmente 10 a 100 pólipos) e se desenvolvendo mais tardiamente (aos 40-50 anos), com risco elevado para CCR se não tratada."
+          },
+          {
+            "id": "C",
+            "text": "A MAP é herdada pelo cromossomo X de forma recessiva, afetando só homens da família e caracterizada unicamente por pólipos hamartomatosos em todo o intestino delgado."
+          },
+          {
+            "id": "D",
+            "text": "A MAP é um erro genético epigenético pós-fecundação sem padrão mendeliano, provocando pólipos exclusivamente hiperplásicos sem potencial de virar adenocarcinoma."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "Ao contrário da Polipose Adenomatosa Familiar (PAF) que é causada por mutações do gene APC com padrão autossômico DOMINANTE (pais sempre afetados gerando filhos afetados, sem pular geração), a Polipose Associada ao gene MUTYH (MAP) possui transmissão genética de caráter Autossômico RECESSIVO. Isso significa que o paciente adoece por herdar duas cópias de genes defeituosos e seus pais são caracteristicamente portadores assintomáticos (por isso não têm histórico familiar direto vertical). Clinicamente, o MAP tem um fenótipo sobreposto à PAF atenuada: os pacientes tendem a ter entre 10 e 100 adenomas (como o caso que tem 35) diagnosticados por volta dos 40-50 anos, muito aquém dos 'centenas a milhares de pólipos na adolescência' que se vê na PAF grave. Ainda assim, pacientes não operados ou sem ressecção em MAP detém de cerca de 80% de chance de desenvolver Câncer Colorretal."
+      },
+      {
+        "title": "Recidiva Pélvica Local Irressecável",
+        "content": "**Caso 20:** Jorge, 70 anos, maquinista aposentado. Há dois anos realizou uma ressecção anterior baixa de reto associada à quimioterapia adjuvante para um câncer de reto estádio III. Ele se apresentava assintomático, até que há 4 meses começou a se queixar de intensa dor lombar e sacral contínua que frequentemente irradia como um 'choque' pela face posterior da perna esquerda e perna direita esporadicamente, impossibilitando-o de sentar e caminhar apropriadamente. A ressonância magnética pélvica de urgência demonstrou a causa: Uma volumosa massa (recidiva tumoral) presacral de 7 centímetros infiltrando os forames sacrais de S2 e S3 e aprisionando ou destruindo parcialmente o plexo lombossacral (raízes ciáticas). O tumor recidivado está fixo e invade profundamente a parede óssea da pélvis posterior.\n\n**Evolução:** Tumores retais quando recidivam localmente tendem a infiltrar os nervos somáticos e plexos sacrais da parede pélvica.",
+        "previous_step_comment": "",
+        "question": "A dor pélvica/sacral relatada pelo paciente, com irradiação posterior em membros inferiores num cenário de massa sacral com acometimento do plexo, constitui um tipo de dor oncológica intratável frequentemente incapacitante. Neste contexto (uma doença fixa no osso e inoperável pela extensão neurológica avançada), qual medida é a abordagem multimodal padrão para alívio prioritário no cenário de paliação dessa sintomatologia algica refratária?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Exenteração Pélvica Posterior de resgate oncológica com sacrectomia em bloco abrangendo a raiz nervosa e cirurgia vascular associada."
+          },
+          {
+            "id": "B",
+            "text": "Radioterapia paliativa local de consolidação no leito sacral sobre a massa tumoral associada ao escalonamento de analgesia com opióides e adjuvantes neuromoduladores (ex: pregabalina, duloxetina)."
+          },
+          {
+            "id": "C",
+            "text": "Descompressão radicular lombar padrão por laminectomia L4-L5 da coluna seguido de implante de haste metálica."
+          },
+          {
+            "id": "D",
+            "text": "Apenas paracetamol e AINEs regulares, com fisioterapia intensiva diária de tração mecânica lombar."
+          }
+        ],
+        "correct_option_id": "B",
+        "explanation": "No câncer retal com recidiva presacral que infiltra e destrói extensivamente a fáscia e forames sacrais acometendo o plexo lombossacral, há a deflagração da síndrome dor pélvico-neuropática severa (dor contínua tipo pontada ou peso + componente neuropático irradiado para pernas tipo choque ou agulhadas). Quando a massa pélvica é considerada irresecável por envolver estruturas pélvicas vasculares ou osso sacro acima de S2/S3 com lesão neurológica difusa, a exenteração pélvica está contraindicada por impossibilidade de margem R0 (opção A falsa). O pilar terapêutico para este drama clínico em prol de qualidade de vida é a Radioterapia Paliativa Externa diretamente no tumor sacral doloroso (frequentemente confere grande encolhimento, morte celular ou necrose neural aliviando a distensão) simultânea à administração de medicamentos multimodais compostos por opióides fortes de longa duração combinados a medicações específicas para dor neuropática antiepiléticos/antidepressivos (Pregabalina, Amitriptilina, Duloxetina) para bloquear a hiperestimulação das raíões ciáticas lesadas."
+      }
+    ]
+  }
+]
